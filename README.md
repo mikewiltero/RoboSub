@@ -1,4 +1,5 @@
-# RoboSub
+# TALON
+**code in this repository is either defunct or waiting to be converted to be used in ROS. When converted, it will be merged into the main repo**
 
 Welcome to the fun times at RoboSub! Visit us at [unfauv.org](http://unfauv.org)
 
